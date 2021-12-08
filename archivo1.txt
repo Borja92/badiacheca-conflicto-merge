@@ -1,2 +1,6 @@
+
 Linea1
 Linea3
+conflicto añadido
+Linea2
+
